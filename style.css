@@ -1,5 +1,11 @@
 body{
-    background-color: #F3F1FF;
+    background-color: #E5E5E5;
+}
+main{
+    max-width: 870px;
+}
+.top-player{
+    background-color: #f0ebeb;
 }
 .brand-logo{
     width: 40px;
