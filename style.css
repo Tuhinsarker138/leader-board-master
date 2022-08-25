@@ -1,3 +1,13 @@
+body{
+    background-color: #F3F1FF;
+}
 .brand-logo{
     width: 40px;
 }
+.me-3 {
+    margin-left: ($spacer ) !important;
+}
+.player img{
+    width: 56px;
+}
+
